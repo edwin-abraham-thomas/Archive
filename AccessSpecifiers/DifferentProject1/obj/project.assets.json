@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "AccessSpecifiers/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/AccessSpecifiers.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AccessSpecifiers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AccessSpecifiers/1.0.0": {
+      "type": "project",
+      "path": "../AccessSpecifiers/AccessSpecifiers.csproj",
+      "msbuildProject": "../AccessSpecifiers/AccessSpecifiers.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "AccessSpecifiers >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\edwin\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\edwinat.dev\\Archive\\AccessSpecifiers\\DifferentProject1\\DifferentProject.csproj",
+      "projectName": "DifferentProject",
+      "projectPath": "C:\\edwinat.dev\\Archive\\AccessSpecifiers\\DifferentProject1\\DifferentProject.csproj",
+      "packagesPath": "C:\\Users\\edwin\\.nuget\\packages\\",
+      "outputPath": "C:\\edwinat.dev\\Archive\\AccessSpecifiers\\DifferentProject1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\edwin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\edwinat.dev\\Archive\\AccessSpecifiers\\AccessSpecifiers\\AccessSpecifiers.csproj": {
+              "projectPath": "C:\\edwinat.dev\\Archive\\AccessSpecifiers\\AccessSpecifiers\\AccessSpecifiers.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

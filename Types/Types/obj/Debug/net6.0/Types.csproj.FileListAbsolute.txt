@@ -1,0 +1,15 @@
+C:\edwinat.dev\Archive\Types\Types\bin\Debug\net6.0\Types.exe
+C:\edwinat.dev\Archive\Types\Types\bin\Debug\net6.0\Types.deps.json
+C:\edwinat.dev\Archive\Types\Types\bin\Debug\net6.0\Types.runtimeconfig.json
+C:\edwinat.dev\Archive\Types\Types\bin\Debug\net6.0\Types.dll
+C:\edwinat.dev\Archive\Types\Types\bin\Debug\net6.0\Types.pdb
+C:\edwinat.dev\Archive\Types\Types\obj\Debug\net6.0\Types.csproj.AssemblyReference.cache
+C:\edwinat.dev\Archive\Types\Types\obj\Debug\net6.0\Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\edwinat.dev\Archive\Types\Types\obj\Debug\net6.0\Types.AssemblyInfoInputs.cache
+C:\edwinat.dev\Archive\Types\Types\obj\Debug\net6.0\Types.AssemblyInfo.cs
+C:\edwinat.dev\Archive\Types\Types\obj\Debug\net6.0\Types.csproj.CoreCompileInputs.cache
+C:\edwinat.dev\Archive\Types\Types\obj\Debug\net6.0\Types.dll
+C:\edwinat.dev\Archive\Types\Types\obj\Debug\net6.0\refint\Types.dll
+C:\edwinat.dev\Archive\Types\Types\obj\Debug\net6.0\Types.pdb
+C:\edwinat.dev\Archive\Types\Types\obj\Debug\net6.0\Types.genruntimeconfig.cache
+C:\edwinat.dev\Archive\Types\Types\obj\Debug\net6.0\ref\Types.dll
